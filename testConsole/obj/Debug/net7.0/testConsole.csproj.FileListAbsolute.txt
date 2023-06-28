@@ -1,0 +1,15 @@
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/bin/Debug/net7.0/testConsole
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/bin/Debug/net7.0/testConsole.deps.json
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/bin/Debug/net7.0/testConsole.runtimeconfig.json
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/bin/Debug/net7.0/testConsole.dll
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/bin/Debug/net7.0/testConsole.pdb
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.csproj.AssemblyReference.cache
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.AssemblyInfoInputs.cache
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.AssemblyInfo.cs
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.csproj.CoreCompileInputs.cache
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.dll
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/refint/testConsole.dll
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.pdb
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/testConsole.genruntimeconfig.cache
+/Users/macbookair/CSharpPRO/vsexamples/testConsole/obj/Debug/net7.0/ref/testConsole.dll
